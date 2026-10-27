@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-HR-Service-Delivery-HRSD/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-HR-Service-Delivery-HRSD?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-HR-Service-Delivery-HRSD/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-HR-Service-Delivery-HRSD?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-HR-Service-Delivery-HRSD/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-HR-Service-Delivery-HRSD?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-HR-Service-Delivery-HRSD/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -77,49 +77,49 @@ The table below benchmarks the top commercial HRSD and HCM platforms. Entries ar
 
 Open-source and self-hosted HRMS projects provide organizations with total data sovereignty, zero per-employee licensing lock-in, and granular auditability.
 
-All repositories are **sorted descending by GitHub star count**. Each repo badge links directly to its stargazer community.
+All repositories are **sorted descending by GitHub Stars_Count**. Each repo badge links directly to its stargazer community.
 
-1. **[Odoo HR](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+1. **[Odoo HR](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    *Comprehensive Open-Source Business & Operations Suite (LGPL-3.0 | Python/JS)*  
    Modular open-source ERP with integrated HR applications covering Employee Directory, Leave & Absence Management, Recruitment (ATS), Time Off, Appraisals, and Expense Tracking. Integrates natively with accounting and payroll modules.
 
-2. **[Frappe HRMS](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+2. **[Frappe HRMS](https://github.com/frappe/hrms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
    *Modern, Feature-Rich HR & Payroll Framework (GPL-3.0 | Python/Vue)*  
    Built on the Frappe Framework (same foundation as ERPNext). Delivers end-to-end employee lifecycle management, automated attendance, multi-tier shift scheduling, expense claim approvals, performance appraisal cycles, and automated tax calculations.
 
-3. **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** [![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
+3. **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** [![GitHub_Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
    *Open Business Management, ERP & HRM Platform (Apache-2.0 / Fair-Code | TypeScript/NestJS/Angular)*  
    Tailored for distributed organizations, agencies, and modern remote teams. Includes employee time tracking, automated payroll calculations, project assignments, candidate pipeline management, and role-based permissions.
 
-4. **[Dolibarr ERP & HRM](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+4. **[Dolibarr ERP & HRM](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
    *Mature Self-Hosted Enterprise Suite (GPL-3.0 | PHP/MySQL)*  
    Robust open-source suite featuring dedicated HR modules for managing employee master records, holiday and leave requests, expense reports, timesheets, and candidate applications.
 
-5. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+5. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
    *ITIL Service Desk, Asset Management & Shared Service Delivery (GPL-3.0 | PHP)*  
    Widely deployed across IT and HR shared services to manage employee onboarding/offboarding hardware provisioning, HR ticket workflows, service catalogs, and SLA enforcement.
 
-6. **[erxes XOS](https://github.com/erxes/erxes)** [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
+6. **[erxes XOS](https://github.com/erxes/erxes)** [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
    *Open-Source Experience Operating System (GPL-3.0 | TypeScript/Node/React)*  
    Unifies internal team collaboration, employee helpdesk ticketing, shared multi-channel inboxes, task management, and automated workflow triggers across departments.
 
-7. **[Horilla HRMS](https://github.com/horilla-opensource/horilla)** [![GitHub stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)  
+7. **[Horilla HRMS](https://github.com/horilla-opensource/horilla)** [![GitHub_Stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)  
    *Full-Lifecycle HRMS with Built-in HR Helpdesk (LGPL-3.0 | Python/Django)*  
    Feature-complete HRMS covering employee directory, LDAP authentication, recruitment pipelines, onboarding/offboarding task checklists, biometric attendance syncing, leave policy rules, asset tracking, and a dedicated ticketing service desk (`horilla/horilla-hr:2.1.5`).
 
-8. **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)  
+8. **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub_Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)  
    *Pioneering Enterprise Human Resource Management (GPL-3.0 | PHP/Symfony)*  
    One of the earliest and most proven open-source HR systems (active since 2005). Provides Personnel Information Management (PIM), leave/time-off tracking, attendance management, performance reviews, and candidate recruitment.
 
-9. **[Urlaubsverwaltung](https://github.com/urlaubsverwaltung/urlaubsverwaltung)** [![GitHub stars](https://img.shields.io/github/stars/urlaubsverwaltung/urlaubsverwaltung?style=social&color=white)](https://github.com/urlaubsverwaltung/urlaubsverwaltung/stargazers)  
+9. **[Urlaubsverwaltung](https://github.com/urlaubsverwaltung/urlaubsverwaltung)** [![GitHub_Stars](https://img.shields.io/github/stars/urlaubsverwaltung/urlaubsverwaltung?style=social&color=white)](https://github.com/urlaubsverwaltung/urlaubsverwaltung/stargazers)  
    *Dedicated Self-Hosted Absence & Leave Management (Apache-2.0 | Java/Spring Boot)*  
    Streamlined web application dedicated exclusively to vacation requests, sick day notifications, overtime hours calculation, and departmental calendar synchronization.
 
-10. **[OpenHRApp](https://github.com/mimnets/OpenHRApp)** [![GitHub stars](https://img.shields.io/github/stars/mimnets/OpenHRApp?style=social&color=white)](https://github.com/mimnets/OpenHRApp/stargazers)  
+10. **[OpenHRApp](https://github.com/mimnets/OpenHRApp)** [![GitHub_Stars](https://img.shields.io/github/stars/mimnets/OpenHRApp?style=social&color=white)](https://github.com/mimnets/OpenHRApp/stargazers)  
     *Lightweight Self-Hosted HR & Attendance Tracker (MIT | React/Supabase)*  
     Clean, privacy-first web application designed for small organizations requiring basic employee attendance tracking, employee directory, and leave logging.
 
-11. **[HRKit](https://github.com/AnitChaudhry/HRKit)** [![GitHub stars](https://img.shields.io/github/stars/AnitChaudhry/HRKit?style=social&color=white)](https://github.com/AnitChaudhry/HRKit/stargazers)  
+11. **[HRKit](https://github.com/AnitChaudhry/HRKit)** [![GitHub_Stars](https://img.shields.io/github/stars/AnitChaudhry/HRKit?style=social&color=white)](https://github.com/AnitChaudhry/HRKit/stargazers)  
     *Local-First AI-Assisted HR Management (MIT | Python/SQLite)*  
     Local-first HR tool with 11 modules (Documents, Leave, Attendance, Payroll, Performance, Onboarding, Exits, and Recruitment with AI candidate scoring). Integrates BYOK (Bring Your Own Key) OpenAI-compatible LLMs and per-employee folder structures.
 
@@ -168,7 +168,7 @@ Contributions from HR operators, software architects, and open-source contributo
 1. **Fork** the repository on GitHub.
 2. **Add or update entries** in [README.md](file:///C:/Users/hp/Documents/Projects/Awesome-HR-Service-Delivery-HRSD/README.md) maintaining the table and badge format.
 3. Ensure commercial entries include specific starting pricing and verified free trial/tier limits.
-4. For open-source projects, include the repository URL, shields star badge (`style=social&color=white`) linking to `/stargazers`, tech stack, and primary features.
+4. For open-source projects, include the repository URL, shields Stars_Badge (`style=social&color=white`) linking to `/stargazers`, tech stack, and primary features.
 5. **Submit a Pull Request** with a concise description of your additions.
 
 Explore more curated developer lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
